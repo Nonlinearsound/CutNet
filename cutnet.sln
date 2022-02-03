@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cutnet", "cutnet\cutnet.csproj", "{13430518-7231-471D-9E21-AD92695D9539}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupCutNet", "SetupCutNet\SetupCutNet.vdproj", "{131B674A-8F93-4C8A-B13C-B97ADF5C9B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13430518-7231-471D-9E21-AD92695D9539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13430518-7231-471D-9E21-AD92695D9539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13430518-7231-471D-9E21-AD92695D9539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13430518-7231-471D-9E21-AD92695D9539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131B674A-8F93-4C8A-B13C-B97ADF5C9B58}.Debug|Any CPU.ActiveCfg = Debug
+		{131B674A-8F93-4C8A-B13C-B97ADF5C9B58}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB925D8E-0052-4AF4-A55A-6C5C31F795EE}
+	EndGlobalSection
+EndGlobal
