@@ -3,6 +3,8 @@ a small console application that quickly disables all connected network adapters
 
 ## Usage
 
+To enable/disable network adapters, you need to run this application as an Administrator user.
+
 ```
 cutnet enable/disable
 ```
